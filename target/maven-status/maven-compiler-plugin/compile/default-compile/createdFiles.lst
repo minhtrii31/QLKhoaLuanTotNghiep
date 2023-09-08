@@ -2,6 +2,7 @@ com\mt\com\mt\configs\DispatcherServletInitializer.class
 com\mt\repository\impl\UserRepositoryImpl.class
 com\mt\pojos\User.class
 com\mt\com\mt\configs\HibernateConfig.class
+com\mt\pojos\Thesis.class
 com\mt\controllers\HomeController.class
 com\mt\repository\UserRepository.class
 com\mt\service\UserService.class
